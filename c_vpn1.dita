@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ijg_nxy_bgc">
+    <title>What is VPN? </title>
+    <shortdesc>VPN stands for virtual private network.</shortdesc>
+    <conbody>
+        <p>The need for VPN arises because the data must be encrypted when public WiFi is used. If
+            its not, then the hackers can access the data. </p>
+    </conbody>
+</concept>

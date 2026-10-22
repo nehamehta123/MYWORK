@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="t_troubleshoooting">
+    <title>Troubleshoooting</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>The conditon is that the internet is not working. </p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p><ol><li>Too many users are logged on to the internet.</li><li>This issue can also arise when the distance from the server is high.</li></ol></p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>IT administrator</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>Enter the name of the country in the search bar. </cmd>
+                        <stepxmp>For example, the user enters the name of country as
+                                <userinput>Japan</userinput>. </stepxmp></step>
+                    <step><cmd>Click on the <uicontrol>Connect</uicontrol> button.</cmd></step>
+                    <step><cmd>Click the <uicontrol>Upgrade</uicontrol> button on the resulting screen.</cmd>
+                        <stepresult>You will see a webpage with options for 3 payment plans for 1
+                            month, 12 months and 24 months</stepresult></step>
+                        <step><cmd>Click on <uicontrol>Upgrade</uicontrol>below these options to choose a plan.</cmd></step>
+                    
+                        
+                    
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

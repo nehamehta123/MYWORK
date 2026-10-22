@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_ulc_1tj_yfc">
+    <title>Glossary </title>
+    <glossentry id="ddl">
+        <glossterm>Free server configs </glossterm>
+        <glossdef>Choose the option of Free server configs because we are under a free plan.Since the user is on a Proton free plan, he cannot choose any other configuration.</glossdef>
+    </glossentry> <glossentry id="dpl">
+    <glossterm>Free server configs </glossterm>
+        <glossdef></glossdef>
+    </glossentry>
+</glossgroup>

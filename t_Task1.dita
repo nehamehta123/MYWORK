@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cff_stj_yfc">
+    <title>How to install Proton VPN?</title>
+    <shortdesc>Steps  for installing  VPN</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the <wintitle>VPN extension</wintitle> icon in the
+                        <wintitle>Firefox</wintitle> toolbar.</cmd>
+            <stepresult>You will be directed to the server connection popup.</stepresult></step>
+            
+                
+            <step>
+                <cmd>Choose anyone of the followig.For more information, connect to <xref href="g_gloss.dita" format="dita">this file </xref></cmd>
+                <choices>
+                    <choice>Japan</choice>
+                    <choice>USA</choice>
+                    <choice>Poland</choice>
+                    <choice>Afghanistan</choice>
+                </choices>
+                <stepresult>You will get the popup <msgph>The server has been
+                    connected</msgph></stepresult></step>
+            
+            <step><cmd>Enter the following lines of code:<cmdname>C:\Users cd> Neha</cmdname></cmd></step>
+            <step><cmd>Create a Python file<codeph>print("Hello world");</codeph> with these lines of code:</cmd></step>
+                
+            
+            <step>
+                <note><image href="/Program%20Files/Oxygen%20XML%20Editor%2026/samples/personal-images/brian.carter.jpg"></image></note>
+              
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="https://www.google.com/" format="html" scope="external">
+            <linktext>www.google.com</linktext>
+        </link>
+    </related-links>
+    
+</task>
+

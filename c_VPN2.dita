@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="fbs_5nr_wfc">
+ <title>Meaning of VPN </title>
+    <shortdesc>This chapter talks about the meaning of VPN.</shortdesc>
+    <conbody>
+        <p>VPN is the creation of a private network through the use of encryption on the public
+            network. It creates encryption between the client PC used for connecting to Internet and
+            the remote server. Through this encryption, the data is also protected. It masks your IP
+            address, so it ensures that no one can know where are your browsing the Internet from.
+            It hides and changes the digit of your IP address so that the server location cant be
+            detected by tracking authorities like the government.</p>
+        <p id="p_qpq_5mr_wfc"> It is used by organizations for their internal employees so that they can
+            access the content from anywhere, without revealing their location to the hackers. Since
+            the IP address gets changed under this technology, the corporate server can’t be traced
+            by the hackers. </p>
+    </conbody>
+</concept>

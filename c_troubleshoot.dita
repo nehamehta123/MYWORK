@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ply_tlr_wfc">
+    <title>Purpose of VPN</title><shortdesc>This is the purpose of VPN</shortdesc>
+    <conbody>
+        <p conref="c_VPN2.dita#fbs_5nr_wfc/p_qpq_5mr_wfc"/>
+        <p/>
+    </conbody>
+</concept>

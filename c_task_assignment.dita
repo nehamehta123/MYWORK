@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_u2z_dyy_bgc">
+    <title>How to install ExpressVPN?</title>
+    <shortdesc>This is about tasks to install ExpressVPN. </shortdesc>
+    <taskbody><prereq><ol><li>Ensure that the installation of any app is not blocked by system administrator.
+    </li><li>Ensure that the antivirus software is turned off so that the VPN can be installed.</li><li>The firewall must be disabled.</li></ol>
+        </prereq>
+        <context/>
+        <steps><stepsection><b>Steps to installing VPN:</b></stepsection>
+            <step>
+                <cmd> Download the expressvpn.exe file from the <xref
+                        href="https://www.expressvpn.com/" format="html" scope="external"/> and
+                    troubleshoot using <xref keyref="example"/></cmd>
+            </step>
+            <step>
+                <cmd>Install the file by clicking <uicontrol>Run as administrator.</uicontrol>.</cmd> <stepresult>When the VPN is installed, the user will see a screen asking for username, password and token.</stepresult><steptroubleshooting>If the user, sees the message <msgph>The app is blocked by your
+                        administrator</msgph>disable the antivirus software and restart both the
+                    laptop and the router. </steptroubleshooting></step>
+                <step>
+                <cmd>Enter the username and the password.</cmd>
+                <info>
+                    <note>The username and password are provided by the IT administrator.You must
+                        see that the password length should not be less than 10 characters.</note>
+                </info>
+            </step>
+           
+            
+            <step>
+                <cmd>After  entering username and pasword, check the email ID to get the
+                    token.</cmd><steptroubleshooting>Raise the helpdesk ticket to get the token if you have not received
+                    it.</steptroubleshooting>
+            </step>
+            <step>
+                <cmd> Click the <uicontrol>Connect</uicontrol> button after entering all the
+                    details.</cmd>
+                <info>
+                    <note>Leave all the settings as they are on the <b>Settings</b> page.</note>
+                </info>
+                <stepresult>When the VPN is installed and active, you will see a small icon in the
+                    system tray. You can also see the icon in the<b> Start</b> menu. </stepresult>
+            </step>
+          
+          
+        </steps></taskbody>
+        
+   
+</task>

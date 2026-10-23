@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+
+<troubleshooting id="trouble1">
+    <title>Troubleshooting VPN installation on Windows </title>
+    <troublebody>
+        <condition><title>Conditions:</title>
+            <ul id="trouble1">
+                <li>The user can't connect to the VPN, the VPN icon in the system tray blinks. </li>
+                <li>When there is an error, the screen displays <msgph>connection has timed
+                        out.</msgph></li></ul></condition>
+    <troubleSolution>
+        <cause>
+            <title>Causes:</title>
+            <p><ol><li>It's because the WiFi does not work due to firewall. </li>
+                <li>The token has expired, due to which authentication fails.</li>
+                <li>There is  some problem at the backend.</li>
+                <li>This error occurs because the internet connection is slow.</li>
+                <li>The Windows updates have not been installed due to which VPN does not work.</li>
+                
+            </ol></p></cause>
+    <remedy>
+        <title>Remedies:</title>
+        <responsibleParty><b>Responsible Party:</b>IT administrator </responsibleParty>
+        <steps>
+            <step>
+                <cmd>Disable the firewall or use hotspot.</cmd></step>
+            
+            <step>
+                <cmd>Ask the IT administrator to issue a new token.</cmd></step>
+            <step>
+                <cmd>Click on the <uicontrol>More Info</uicontrol> option in the VPN icon on
+                    the system tray.Send the resulting logs to the IT administrator.</cmd>
+            </step>
+            <step>
+                <cmd>Restart your router and laptop.</cmd>
+            </step>
+            <step>
+                <cmd>Update <b>Windows</b>.</cmd>
+            </step></steps></remedy></troubleSolution></troublebody></troubleshooting>
+            
+    
+      

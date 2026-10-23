@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+
+
+    
+<troubleshooting id="trouble2">
+        <title>Troubleshoooting VPN installation on macOS</title>
+    <shortdesc>For information on troubleshooting VPN installation on Windows refer to <xref
+        keyref="example"></xref>.</shortdesc>
+    
+    <troublebody><condition><title>Condition:</title><ol><li>Entering the wrong password in the <wintitle>connection</wintitle> window. </li>
+            <li>The macOS system does not detect the VPN app. Displays an error message
+                <msgph>App Can’t Be Opened</msgph></li></ol></condition>
+            
+            <troubleSolution><cause><title>Causes:</title>
+                <p><ol><li>The user has forgotten the correct password.</li>
+                    <li>This is an inherent problem of the macOS.</li></ol></p></cause>
+                <remedy><title>Remedies:</title>
+                    <responsibleParty><b>Responsible Party:</b>IT administrator</responsibleParty>
+                    <steps><step>
+                        <cmd>Raise a helpdesk ticket or contact support for a new password to be issued.</cmd>
+                    </step>
+                        <step>
+                            <cmd>Navigate through these options, <menucascade>
+                                <uicontrol>System Preferences</uicontrol>
+                                <uicontrol>Privacy and Security</uicontrol>
+                                <uicontrol>Full Disk Access / Network / Screen Recording</uicontrol>
+                            </menucascade></cmd>
+                        </step>
+                    </steps>
+                </remedy></troubleSolution></troublebody></troubleshooting>
+    
